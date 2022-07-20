@@ -1,0 +1,7 @@
+/.vscode
+/.history
+/*.DS_Store
+/*.idea
+
+composer.lock
+/vendor/
